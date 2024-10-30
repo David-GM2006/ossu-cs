@@ -89,9 +89,11 @@ just remember that you can't purchase success!
 
 **Curriculum version**: `8.0.0` (see [CHANGELOG](CHANGELOG.md))
 
+After Introduction to Programming, will proceed with both Introduction to computer Science and Calculus A at the same time.
+
 - [Prerequisites](#prerequisites)
 - [Intro CS](#intro-cs)
-  - [Introduction to Programming](#introduction-to-programming)
+  - [Introduction to Programming](#introduction-to-programming) ⌚
   - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Core CS](#core-cs)
   - [Core programming](#core-programming)
